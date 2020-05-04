@@ -186,8 +186,8 @@ print("ENLARGED NUMBER", enlarge(x)) # invoking our function!!
 Running the scripts:
 
 ```sh
-python my_labmdata/my_script.py
-python my_labmdata/my_mod.py
+python my_lambdata.my_script.py
+python my_lambdata.my_mod.py
 
 # note, the alternative "module" invocation syntax
 # ... required if our script imports from another local file:
